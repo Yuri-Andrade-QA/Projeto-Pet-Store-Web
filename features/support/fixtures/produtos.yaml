@@ -1,0 +1,61 @@
+ração:
+  nome: "Ração Golden Fórmula Senior para Cães Adultos Sabor Frango e Arroz - 15kg"
+  fornecedor: Golden
+  preço normal: "R$ 150,90"
+  preço assinante: "R$ 135,81"
+
+pestisco:
+    nome: "Snack Petz Cuidado Oral para Cães de Pequeno Porte"
+    fornecedor: Petz
+    preço normal: "R$ 4,99"
+    preço assinante: "R$ 4,49"
+
+tapete:
+    nome: "Tapete Higiênico Petz para Cães Slim 30un"
+    fornecedor: Petz
+    preço normal: "R$ 74,99"
+    preço assinante: "R$ 67,49"
+
+remédio:
+    nome: "Apoquel Zoetis Dermatológico para Cães"
+    fornecedor: Zoetis
+    preço normal: "R$ 191,25"
+    preço assinante: "R$ 172,12"
+
+brinquedo:
+    nome: "Brinquedo Macaco Petz"
+    fornecedor: Petz
+    preço normal: "R$ 39,99"
+    preço assinante: "R$ 35,99"
+
+coleira:
+  nome: "Guia Petz Flamingo para Cães"
+  fornecedor: Petz
+  preço normal: "R$ 54,99"
+  preço assinante: "R$ 49,49"
+
+toalha:
+  nome: "Toalhas Umedecidas Petz para Cães e Gatos"
+  fornecedor: Petz
+  preço normal: "R$ 16,99"
+  preço assinante: "R$ 15,29"
+
+cama: 
+  nome: "Cama Alasca Petz Rosa"
+  fornecedor: Petz
+  preço normal: "R$ 189,99"
+  preço assinante: "R$ 170,99"
+
+comedouro:
+  nome: "Porta Ração Petz para Ração Azul 15kg"
+  fornecedor: Petz
+  preço normal: "R$ 89,99"
+  preço assinante: "R$ 80,99"
+
+roupa:
+  nome: "Camiseta Piticas Capitão América"
+  fornecedor: Piticas
+  preço normal: "R$ 37,99"
+  preço assinante: "R$ 34,19"
+
+
