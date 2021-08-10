@@ -29,12 +29,12 @@
             | codigo      |
             | "ração"     |
             | "pestisco"  |
-           # | "tapete"    |
-           # | "remédio"   |
-           # | "brinquedo" |
-           # | "coleira"   |
-           # | "toalha"    |
-           # | "cama"      |
-           # | "comedouro" |
-           # | "roupa"     |
+            | "tapete"    |
+            | "remédio"   |
+            | "brinquedo" |
+            | "coleira"   |
+            | "toalha"    |
+            | "cama"      |
+            | "comedouro" |
+            | "roupa"     |
            
